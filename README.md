@@ -25,5 +25,5 @@
 ### Github Stats 🚀
 
 <p align="center"><a href="https://github.com/dhabotz"><img src="https://github-readme-stats.vercel.app/api?username=Dhabotz&show_icons=true&theme=radical"></a></p>
-kami
-#Dhabotz.github.io
+
+# Dhabotz.github.io
