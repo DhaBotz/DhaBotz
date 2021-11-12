@@ -6,8 +6,8 @@
 
 <p align="center">
 
-- 🧒 My name is yudha perdana
-- 🎊 I am 18 years old 
+- 🧒 My is yudha perdana
+- 🎊 I'm 18 years old 
 - 📢 I'm a high school student 3 Teluk Meranti
 </p>
 
