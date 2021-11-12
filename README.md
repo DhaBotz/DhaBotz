@@ -1,15 +1,13 @@
-## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> AKU YUDHA 
+<h1 align="center">ASSALAMULAIKUM<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="40px" alt=""><br></h1>
 <p align="center">
-</p>
-<br>
-<p align="center">
-<a href="#"><img title="DhaBotz" src="https://img.shields.io/badge/Dhabotz-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
-</p>
-<p align="center">
-<a href="https://github.com/DhaBotz"><img title="Author" src="https://img.shields.io/badge/YudhaPerdana-orange.svg?style=for-the-badge&logo=github"></a>
-</p>
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" alt="Mario Game" width="600" />
 <div align="center">
-<details>
- 
-</details>
+</p>
+
+<p align="center">
+
+-  My name is yudha perdana
+-  I am 18 years old 
+-  I am not programmer
+
+</p>
