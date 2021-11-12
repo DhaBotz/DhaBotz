@@ -18,3 +18,9 @@
   <a href="https://github.com/dhabotz"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" /> 
   <a href="https://komarev.com/ghpvc/?username=dhabotz&color=blue&style=flat-square&label=Profile+Views"><img title="Watching" src="https://komarev.com/ghpvc/?username=dhabotz&color=blue&style=flat-square&label=Profile+View"></a>
 </p>
+
+
+### Github Stats 🚀
+
+<p align="center"><a href="https://github.com/dhabotz"><img src="https://github-readme-stats.vercel.app/api?username=YUDHA PERDANA&show_icons=true&theme=radical"></a></p>
+<p align="center"><a href="https://github.com/dhabotz"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YUDHA PERDANA&theme=radical&layout=compact"></a></p> 
