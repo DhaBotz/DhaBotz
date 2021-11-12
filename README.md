@@ -8,7 +8,7 @@
 
 - 🧒 I'm yudha perdana
 - 🎊 I'm 18 years old 
-- 📢 I'm a high school student 3 Teluk Meranti
+- 📢 I am a student of SMAN 3 Teluk Meranti
 </p>
 
 ### Connect with me ☎️
