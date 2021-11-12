@@ -1,10 +1,7 @@
-## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> AKU YUDHA PERDANA
+## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> AKU YUDHA 
 <p align="center">
 </p>
 <br>
-
-
-
 <p align="center">
 <a href="#"><img title="DhaBotz" src="https://img.shields.io/badge/Dhabotz-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
