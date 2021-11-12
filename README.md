@@ -7,7 +7,7 @@
 <p align="center">
 
 - 🧒 I am yudha perdana
-- 🎊 I am 18 years old 
+- 🎊 I'm 18 years old
 - 📢 I am a student of SMAN 3 Teluk Meranti
 </p>
 
