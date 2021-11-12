@@ -6,10 +6,9 @@
 
 <p align="center">
 
--  My name is yudha perdana
--  I am 18 years old 
--  I am not programmer
-
+- 🧒 My name is yudha perdana
+- 🎊 I am 18 years old 
+- 📢 I'm a high school student 3 Teluk Meranti
 </p>
 
 ### Connect with me ☎️
